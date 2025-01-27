@@ -1,6 +1,6 @@
 # README
 
-Version 1.1
+Version 1.2
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
